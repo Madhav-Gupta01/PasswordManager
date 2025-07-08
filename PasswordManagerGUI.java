@@ -88,6 +88,3 @@ public class PasswordManagerGUI extends Application {
         primaryStage.show();
     }
 } 
-
-// Note: Rename your existing class to PasswordManagerCore and exclude the main method.
-// Make sure to add JavaFX libraries in your project to compile and run this GUI.
